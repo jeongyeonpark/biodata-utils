@@ -1,0 +1,3 @@
+pdb,chain,seq_length,gap_count,has_gap,altconf_count,kept_inscodes,removed_inscodes,gap_positions,output_file,status
+1IGT_sample,A,214,2,True,0,,,"100,200",./1IGT_sample.fasta,success
+1IGT_sample,B,481,37,True,0,"52A,82A,82B,82C,100H,100I,100J,100K",,"98-99,131-132,155,158-161,170,181-182,197,201,207,224-225,233-234,293-294,297-298,315-316,356,362,376,380,403-404,409,412-413,429,431-432",./1IGT_sample.fasta,success
